@@ -64,10 +64,9 @@
     text-align: center;
     transition: all 1s ease-in-out;
     box-shadow: 0 0 5px var(--shadow-color);
-    padding: 5px 10px;
+    padding: 10px 10px;
     z-index: 1;
-    padding-bottom: 5%;
-    margin-bottom: 5%;
+    
   }
   
   .envelope > .letter > .text {
@@ -75,6 +74,8 @@
     color: var(--txt-color);
     text-align: left;
     font-size: 10px;
+    padding-bottom: 5%;
+    margin-bottom: 5%;
   }
   .heart {
     position: absolute;
